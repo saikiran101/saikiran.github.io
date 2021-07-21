@@ -34,7 +34,9 @@ const Service = () => {
 						</div>
 
 						<div className="d-flex justify-content-center mt-3">
-							<h3 style={{color:"white"}}>If you what to get in touch with Me</h3>
+							<h3 style={{ color: "white" }}>
+								If you want to get in touch with Me
+							</h3>
 						</div>
 						<div className="d-flex justify-content-center mt-3">
 							<NavLink className="btn btn-primary" to="/ContactMe">
